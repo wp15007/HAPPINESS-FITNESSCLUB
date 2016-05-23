@@ -40,6 +40,7 @@ img {
 }
 #sub ul li {
 	margin-bottom: 20px;
+	box-shadow: 0px 5px 3px #cccccc;
 }
 #graphic {
 	margin-bottom: 0;

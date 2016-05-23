@@ -35,14 +35,18 @@ footer p {
 	text-align: center;
 }
 footer small {
-	font-size: x-large;
+	font-size: 100%;
 }
 #main h1{
 	background-image: url(../images/h1.png);
 	background-repeat: no-repeat;
-	padding: 8px 0 3px 40px;
+	padding: 20px 3px 10px 40px;
 	margin: 0 0 20px 0;
 	font-size: 162%;
+	border: solid 1px #aaaaaa;
+	margin: 20px 0 10px;
+	background: linear-gradient(#ffffff 0% , #dfdfdf 100%);
+
 }
 /* 基本レイアウト ここまで↑ */
 .fb-like{
