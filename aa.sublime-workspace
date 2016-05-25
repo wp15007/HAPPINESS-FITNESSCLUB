@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"utf",
+				"UTF-8"
+			],
+			[
+				"my",
+				"my_id"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"mb_co",
+				"mb_convert_kana"
+			],
+			[
+				"max",
+				"maxlength	Attr"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"yo",
+				"yohou"
+			],
+			[
+				"simpexml_",
+				"simplexml_load_file"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"save_",
+				"save_data"
+			],
+			[
+				"save",
+				"save_file"
+			],
+			[
+				"msg",
+				"msg_html"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"insert",
+				"insert_stmt"
+			],
+			[
+				"handl",
+				"handle_r"
+			],
+			[
+				"han",
+				"handle_w"
+			],
+			[
+				"ca",
+				"caption	Tag"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"f",
+				"fclose"
+			],
+			[
+				"ha",
+				"handle_w"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"tar",
+				"target_file"
+			],
+			[
+				"target",
+				"target_file"
+			],
+			[
+				"targe",
+				"target_file"
+			],
+			[
+				"cur",
+				"cur_mon"
+			],
+			[
+				"sho",
+				"show_div"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"a",
+				"apple_count"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"Y",
+				"Y年n月j日"
+			],
+			[
+				"date_default",
+				"date_default_timezone_set"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"inch",
+				"inch_v"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"tax",
+				"tax_rate"
+			],
+			[
+				"apple",
+				"apple_count"
+			],
+			[
+				"pric",
+				"price2"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKA",
+				"Package Control: List Packages"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"LIST",
+				"Package Control: List Packages"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/PHP_sample_lecture/part3",
+		"/C/Users/ishigooka/Desktop/webcre-standard"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/sample17.php",
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/sample18_logout.php",
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/sample19_input.html",
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/sample19.php",
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/sample17_input.php",
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/sample14.html",
+		"/C/Users/ishigooka/Desktop/site2/reserve.html",
+		"/C/Users/ishigooka/Desktop/Win用/WebクリエイターST_模擬1_HTML5_v3.2.0.311111_11111［XK3QA］/実技用/site/ticket.html",
+		"/C/Users/ishigooka/Desktop/Win用/WebクリエイターST_模擬1_HTML5_v3.2.0.311111_11111［XK3QA］/実技用/site/css/style.css",
+		"/C/Users/ishigooka/Desktop/Win用/WebクリエイターST_模擬1_HTML5_v3.2.0.311111_11111［XK3QA］/実技用/site/concept.html",
+		"/C/Users/ishigooka/Desktop/site3/css/style.css",
+		"/C/Users/ishigooka/Desktop/site3/course.html",
+		"/C/Users/ishigooka/Desktop/site3/index.html",
+		"/C/Users/ishigooka/Desktop/site3/iroha.html",
+		"/C/Users/ishigooka/Desktop/Win用/WebクリエイターST_模擬1_HTML5_v3.2.0.311111_11111［XK3QA］/実技用/site/contact.html",
+		"/C/Users/ishigooka/Desktop/site3/visit.html",
+		"/C/Users/ishigooka/Desktop/site/css/style.css",
+		"/C/Users/ishigooka/Desktop/site/pride.html",
+		"/C/Users/ishigooka/Desktop/site/reserve.html",
+		"/C/Users/ishigooka/Desktop/site/menu.html",
+		"/C/xampp/htdocs/js2/chapter4/step3/login-test.php",
+		"/C/Users/ishigooka/Desktop/webcre-standard/start/fee.html",
+		"/C/Users/ishigooka/Desktop/webcre-standard/start/info.html",
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/style.css",
+		"/C/xampp/htdocs/PHP_sample_lecture/part3/sample10.php",
+		"/C/Users/ishigooka/Desktop/webcre-standard/start/index.html",
+		"/C/Users/ishigooka/Desktop/webcre-standard/start/css/common.css",
+		"/C/Users/ishigooka/Desktop/webcre-standard/start/css/style.css",
+		"/C/Users/ishigooka/Desktop/webcre-standard/start/opinion.html",
+		"/C/Users/ishigooka/Desktop/archive/start/index.html",
+		"/C/Users/ishigooka/Desktop/archive/start/css/style.css",
+		"/C/Users/ishigooka/Desktop/archive/start/info.html",
+		"/C/Users/ishigooka/Desktop/archive/start/opnion.html",
+		"/C/xampp/htdocs/saishoniyomuPHP/Chapter5/STEP2-pdo-chat/3-dict/ejdict3.php",
+		"/C/xampp/htdocs/socym/chap5/step2/ejdict3.php",
+		"/C/xampp/htdocs/socym/chap5/step2/ejdict.css",
+		"/C/Users/ishigooka/Downloads/ejdict (2).db",
+		"/C/Users/ishigooka/Downloads/ejdict (1).db",
+		"/C/xampp/htdocs/saishoniyomuPHP/Chapter5/STEP2-pdo-chat/3-dict/ejdict.db",
+		"/C/xampp/htdocs/socym/chap5/step2/ejdict.db",
+		"/C/Users/ishigooka/Desktop/archive/index.html",
+		"/W/H28BL(金城クラス）/web/02_takumi/index.html",
+		"/C/xampp/htdocs/js2/chapter4/step2/3-bbs/simple-bbs.php",
+		"/C/xampp/htdocs/js2/chapter4/step2/3-bbs/bbslog.txt",
+		"/C/xampp/htdocs/saishoniyomuPHP/Chapter4/STEP2-file/3-bbs/simple-bbs.php",
+		"/C/xampp/htdocs/js2/chapter4/step2/2-board/show-board2.php",
+		"/C/xampp/htdocs/js2/chapter4/step2/2-board/test-salt.php",
+		"/C/xampp/htdocs/js2/chapter4/step2/2-board/setting.inc.php",
+		"/W/H28BL(金城クラス）/web/02_takumi/start/css/style.css",
+		"/W/H28BL(金城クラス）/web/14_nina/start/css/style.css",
+		"/W/H28BL(金城クラス）/web/14_nina/start/index.html",
+		"//172.16.200.5/ビジネスライセンス科/H28BL(金城クラス）/web/14_nina/start/index.html",
+		"/C/Users/ishigooka/Desktop/kishimoto/css/style.css",
+		"/C/Users/ishigooka/Desktop/kishimoto/fee.html",
+		"/C/Users/ishigooka/Desktop/fee.html",
+		"/C/Users/ishigooka/Downloads/ejdict.db",
+		"/C/xampp/htdocs/socym/chap5/step2/batch-makedb.php",
+		"/C/xampp/htdocs/saishoniyomuPHP/Chapter4/STEP2-file/3-bbs/simple-bbs2-reset.php",
+		"/C/xampp/htdocs/js2/chapter4/step2/1-file-read-write/read-write2.php",
+		"/C/xampp/htdocs/js2/chapter4/step2/1-file-read-write/new.txt",
+		"/C/xampp/htdocs/js2/chapter4/step2/1-file-read-write/file-replace-fopen.php",
+		"/C/xampp/htdocs/socym/chap4/STEP4/email/email.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/sendmail/sendmail.ini",
+		"/C/Users/ishigooka/Desktop/JS1/index.html",
+		"/C/Users/ishigooka/Desktop/JS1/style.css",
+		"/C/xampp/htdocs/js2/chapter4/3-calendar/cal-onlyday.php",
+		"/C/xampp/htdocs/saishoniyomuPHP/Chapter4/STEP2-file/3-bbs/bbslog.txt",
+		"/C/xampp/htdocs/socym/chap4/STEP2/3-bbs/bbslog.txt",
+		"/C/xampp/htdocs/socym/chap4/STEP2/3-bbs/test-salt.php",
+		"/C/xampp/htdocs/socym/chap4/STEP2/1-readwrite/test.php",
+		"/C/xampp/htdocs/socym/chap4/STEP2/1-readwrite/file-replace-fopen.php",
+		"/C/xampp/htdocs/socym/chap4/STEP2/2-message-board/edit-board2.php",
+		"/C/xampp/htdocs/socym/chap4/STEP2/2-message-board/show-board2.php",
+		"/C/xampp/htdocs/socym/chap4/STEP2/2-message-board/message.txt",
+		"/C/xampp/htdocs/socym/chap4/STEP2/1-readwrite/read-write.php",
+		"/C/xampp/htdocs/socym/chap4/STEP2/1-readwrite/test.txt",
+		"/C/xampp/htdocs/js2/chapter3/step4/radiobutton/array-foreach.php",
+		"/C/xampp/htdocs/socym/chap4/STEP1/1-datetime/date-test.php",
+		"/C/xampp/htdocs/socym/chap4/STEP1/1-datetime/show-today-now.php",
+		"/C/xampp/htdocs/socym/chap4/STEP1/three-days.php",
+		"/C/xampp/htdocs/saishoniyomuPHP/Chapter3/STEP4/5-column-form-parts/input.php",
+		"/C/xampp/htdocs/js2/chapter4/3-calendar/carendar.php",
+		"/W/BL2015生/WebⅠ（糸数）/生徒提出作品/kadai2.html",
+		"/C/Users/ishigooka/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ishigooka/Desktop/yonamine/info.html",
+		"/C/xampp/htdocs/js2/chapter3/step4/qrcode/local-test2.php",
+		"/C/xampp/htdocs/js2/chapter3/step4/selectbox/select-goods.php",
+		"/C/Users/ishigooka/Desktop/yonamine/css/style.css",
+		"/C/Users/ishigooka/Desktop/JS1/index1.html",
+		"/C/xampp/htdocs/js2/chapter3/step3/r-message/saikoro.php",
+		"/C/xampp/htdocs/js2/chapter3/step3/r-message/r-message-if.php",
+		"/C/xampp/htdocs/js2/chapter3/step4/show-qrcode.php",
+		"/C/xampp/htdocs/socym/chap3/STEP3/2-button100/button100.php",
+		"/C/xampp/htdocs/socym/chap3/STEP2/3-bmi-tool/bmi-tool.php",
+		"/C/xampp/htdocs/js2/chapter3/step1/calc-age.php",
+		"/C/xampp/htdocs/js2/chapter3/step3/calc-age.php",
+		"/C/xampp/htdocs/js2/chapter3/step1/bmi-tool.php",
+		"/C/xampp/htdocs/js2/chapter3/step1/script_name.php",
+		"/C/xampp/htdocs/js2/chapter3/step1/string_cancat.php",
+		"/C/Users/ishigooka/Desktop/新しいフォルダー/style.css",
+		"/C/xampp/htdocs/hello.php",
+		"/C/xampp/htdocs/js2/chapter3/step1/show_var.php",
+		"/C/Users/ishigooka/Desktop/index.html",
+		"/C/Users/ishigooka/Desktop/新しいフォルダー/index.html",
+		"/C/Users/ishigooka/Documents/Web/模擬問題1/Win用/WebクリエイターST_模擬1_HTML5_v3.2.0.300000_000000［c2sNl］/実技用/site/index2.html",
+		"/C/xampp/htdocs/socym/chap4/STEP1/1-datetime/time-test.php",
+		"/C/Users/ishigooka/Documents/Web/模擬問題1/Win用/WebクリエイターST_模擬1_HTML5_v3.2.0.300000_000000［c2sNl］/実技用/site/index.html",
+		"/C/xampp/htdocs/socym/chap3/STEP3/2-button100/for-test.php",
+		"/C/xampp/htdocs/socym/chap3/STEP2/3-bmi-tool/inc-test.php",
+		"/C/xampp/htdocs/socym/chap3/STEP3/calc-age.php",
+		"/C/xampp/htdocs/socym/chap3/STEP2/1-form-name/test-input.php",
+		"/C/xampp/htdocs/saishoniyomuPHP/Chapter3/STEP2/1-form-name/form.html",
+		"/C/xampp/htdocs/socym/chap3/STEP2/2-unit-converter/floatval-test.php",
+		"/C/xampp/htdocs/socym/chap3/STEP2/1-form-name/form.html",
+		"/C/xampp/htdocs/socym/chap3/STEP2/showname.php",
+		"/C/xampp/htdocs/PHP_sample/part3/nyumon.php",
+		"/C/xampp/htdocs/socym/hello.php",
+		"/C/xampp/htdocs/socym/chap3/hello.php",
+		"/C/xampp/htdocs/socym/chap3/STEP1/keisan3.php",
+		"/C/xampp/htdocs/socym/chap3/STEP1/test-html4.php",
+		"/C/xampp/htdocs/socym/chap3/STEP1/test-html.php",
+		"/C/xampp/htdocs/socym/chap3/STEP1/test-html2.php",
+		"/C/Users/ishigooka/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/ishigooka/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/C/Users/ishigooka/Documents/Web/webcre-standard/start/css/style.css",
+		"/C/Users/ishigooka/Documents/Web/webcre-standard/start/fee.html",
+		"/C/xampp/htdocs/PHP_sample/part3/sample01.php"
+	],
+	"find":
+	{
+		"height": 90.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"\n",
+			">\n",
+			"Asia",
+			"cis",
+			"++;\n",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\PHP_sample_lecture"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\PHP_sample"
+		},
+		{
+			"path": "C:\\Users\\ishigooka\\Desktop\\webcre-standard"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 53.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

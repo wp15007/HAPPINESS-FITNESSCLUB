@@ -52,6 +52,19 @@ footer small {
 .fb-like{
 	margin-bottom: 30px;
 }
+#movie{
+	background-color: #55e68c;
+	border-radius: 7px;
+	text-align: center;
+	height: 30px;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration-style: none;
+	vertical-align: middle;
+	padding-top: 8px;
+
+}
 
 /* 「施設のご案内」ページ ここから↓ */
 img.float_right{
